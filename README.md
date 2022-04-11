@@ -4,8 +4,8 @@ Recipe book - Odin project
 
 A project to showcase my basic HTML skills and knowledge.
 
-MAJOR UPDATE! v 0.1a 
-11.04.22
+MAJOR UPDATE! v 0.1a<br> 
+11.04.22<br>
 -Add Css Style sheet.
 
 
