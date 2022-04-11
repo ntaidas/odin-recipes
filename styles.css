@@ -7,3 +7,13 @@
 img {
     width: 600px;
 }
+
+
+ul {
+    display: inline-block;
+    color:rgb(143, 5, 5);   
+}
+ol {
+   display: inline-block; 
+   text-align: start;
+}
